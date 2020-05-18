@@ -1,6 +1,6 @@
 # Candidate
 
-## Test webpart:
+## Test app:
 ```
 git clone the repo
 npm i
